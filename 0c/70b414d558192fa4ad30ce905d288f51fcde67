@@ -1,0 +1,25 @@
+llvm/lib/Transforms/Vectorize/LoopReduceMotion.cpp
+  843f9ad05ee71237 317
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "0c70b414d558192fa4ad30ce905d288f51fcde67",
+  "prompts": {
+    "843f9ad05ee71237": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-334d5897-5c28-4676-a361-271916f176d2",
+        "model": "default"
+      },
+      "human_author": "Anjian-Wen <wenanjian@bytedance.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
